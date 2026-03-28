@@ -5,7 +5,7 @@ Greetings. SkillLens is an AI-powered resume analysis application designed to he
 
 SkillLens solves this problem by providing a smart platform that compares resumes with job descriptions using NLP techniques. It generates a similarity score and gives actionable suggestions, enabling users to enhance their resumes and improve their chances of selection.
 
-## 2. Key Features
+### 2. Key Features
 
 The application has been engineered with the following capabilities:
 
@@ -24,13 +24,13 @@ Highlights missing keywords and suggests improvements to increase ATS score.
 Text Preprocessing:
 Removes stopwords, punctuation, and performs normalization for accurate analysis.
 
-#3. Technologies & Tools Used
+### 3. Technologies & Tools Used
 Python (3.x): Core programming language
 Streamlit: For building interactive UI
 Scikit-learn: For TF-IDF vectorization and similarity calculation
 NLTK: For text preprocessing
 Cosine Similarity: For matching resume and job description
-#4. Project File Structure
+### 4. Project File Structure
 The project is divided into six files for better modularity:
 
 main.py is the entry point of the application.
@@ -39,13 +39,13 @@ preprocess.py is used for cleaning and preparing text data.
 similarity.py calculates the similarity score.
 suggestions.py generates improvement suggestions.
 vectorizer.py converts text into numerical vectors using TF-IDF.
-#5. Detailed Installation Instructions
+### 5. Detailed Installation Instructions
 First, make sure Python is installed by checking the version in the terminal.
 Clone the project repository and navigate into the folder.
 Install the required libraries such as streamlit, nltk, and scikit-learn.
 Download required NLTK datasets.
 Run the application using the command streamlit run main.py.
-#6. Testing Guide
+### 6. Testing Guide
 
 Scenario A: Resume Input
 Action: Paste resume text in the input box
@@ -63,7 +63,7 @@ Scenario D: Suggestions
 Action: View suggestions section
 Expected Result: Missing keywords and improvements are shown
 
-#7. Future Enhancements
+### 7. Future Enhancements
 Resume PDF upload support
 Advanced NLP models (BERT-based matching)
 Skill extraction and visualization dashboard
