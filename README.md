@@ -1,5 +1,5 @@
 # SkillLens
-#### 1. Project Overview
+### 1. Project Overview
 
 Greetings. SkillLens is an AI-powered resume analysis application designed to help students and job seekers improve their resumes based on job descriptions. It is often observed that candidates fail to get shortlisted due to lack of keyword optimization and improper resume structuring. This results in low visibility in Applicant Tracking Systems (ATS).
 
