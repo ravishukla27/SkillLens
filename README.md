@@ -5,7 +5,7 @@ Greetings. SkillLens is an AI-powered resume analysis application designed to he
 
 SkillLens solves this problem by providing a smart platform that compares resumes with job descriptions using NLP techniques. It generates a similarity score and gives actionable suggestions, enabling users to enhance their resumes and improve their chances of selection.
 
-## #2. Key Features
+## 2. Key Features
 
 The application has been engineered with the following capabilities:
 
